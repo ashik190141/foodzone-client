@@ -1,0 +1,30 @@
+.bg-image {
+    filter: blur(8px);
+    -webkit-filter: blur(8px);
+}
+
+.back {
+    background-image: url("../../../Image/blog.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.back section {
+    background-color: rgb(211, 209, 199);
+    border-radius: 10px;
+    color: rgb(0, 0, 0);
+    border: 5px solid rgb(65, 65, 68);
+    border-radius: 20px;
+}
+
+.first-section {
+    text-align: justify;
+    margin-bottom: 40px;
+}
+
+.section-style {
+    font-family: 'Times New Roman', Times, serif;
+    padding: 20px;
+    margin: 5px;
+}
