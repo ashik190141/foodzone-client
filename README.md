@@ -7,11 +7,11 @@ Hosted in Firebase -> (https://foodzone-5309b.web.app/)
 
 
 ## Starter Template
-Github Repo -> (https://github.com/programming-hero-web-course-4/b7a10-chef-recipe-hunter-client-side-ashik190141)
+Github Repo -> (https://github.com/ashik190141/foodzone-client)
 
 
 ## Starter Template
-Server Site Repo -> (https://github.com/programming-hero-web-course-4/b7a10-chef-recipe-hunter-server-side-ashik190141)
+Server Site Repo -> (https://github.com/ashik190141/foodzone-server)
 
 ## React Router Dom v6.4 
 Documentation Link -> [Link](https://reactrouter.com/en/main/start/overview)
